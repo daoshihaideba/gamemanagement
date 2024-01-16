@@ -1,0 +1,1795 @@
+[
+  {
+    "kind": 1,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 1,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 1,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 1,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 10,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 10,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 10,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 10,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 11,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 11,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 11,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 11,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 20,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 20,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 20,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 20,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 30,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 30,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 30,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 30,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 40,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 40,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 40,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 40,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 50,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 50,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 50,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 50,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 60,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 60,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 60,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+
+  {
+    "kind": 60,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 70,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 70,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 70,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 70,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 80,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 80,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 80,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 80,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 90,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 90,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 90,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 90,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 5,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 6,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 7,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 100,
+    "level": 8,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 110,
+    "level": 1,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 110,
+    "level": 2,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 110,
+    "level": 3,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  },
+  {
+    "kind": 110,
+    "level": 4,
+    "curInventoryValue": 10000,
+    "minInventoryValue": 0,
+    "extractionRatio": 1,
+    "robotEnable": 1,
+    "robotMatchEnable": 1,
+    "maxRobotCount": 50,
+    "robotWinRateArr": [
+      {
+        "index": 1,
+        "inventoryValue": 0,
+        "winRate": 1
+      },
+      {
+        "index": 2,
+        "inventoryValue": 10000,
+        "winRate": 0.5
+      },
+      {
+        "index": 3,
+        "inventoryValue": 100000,
+        "winRate": 0.2
+      },
+      {
+        "index": 4,
+        "inventoryValue": 1000000,
+        "winRate": 0
+      }
+    ]
+  }
+]
